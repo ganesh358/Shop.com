@@ -1,0 +1,223 @@
+*{
+    color: #202340;
+}
+
+#cart1{
+    
+    padding-top: 13rem;
+}
+
+#maincart{
+   
+    height: auto;
+    display: flex;
+    gap: 3rem;
+}
+
+#yourcart{
+    font-size: 2.8rem;
+    margin-left: 1.5rem;
+}
+
+
+
+#cart12{
+   
+    width: 80rem;
+}
+
+#cart13{
+  
+    width: 50rem;
+    height: 55rem;
+    background-color: #efefef;
+}
+
+#cart12>h1{
+    font-size: 2.2rem;
+    margin-left: 1.5rem;
+}
+
+#fal{
+    display: flex;
+    background-color: #efefef;
+    margin-top: 2rem;
+}
+
+#fal>p{
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin-left: 1.5rem;
+}
+#fal>i{
+    font-size: 2rem;
+    margin-top: 1rem;
+    margin-left: 1.5rem;
+    
+}
+#fal>a{
+    margin-top: 1.5rem;
+    margin-left: 1rem;
+}
+
+
+#appendDiv>div{
+    
+    display: flex;
+    margin-top: 2rem;
+}
+
+#imgid{
+   width: 10rem;
+   height: 10rem;
+}
+
+#div1k{
+    margin-left: 5rem;
+}
+
+#div3k{
+    display: flex;
+}
+
+#div3k>h2{
+    width: 20rem;
+    font-size: 1.7rem;
+}
+
+#div3k>button{
+    margin-left: 2rem;
+    height: 3rem;
+    margin-top: 1.5rem;
+    border-radius: 2rem;
+    border: 1px solid #202340;
+    color: #202340;
+    font-weight: 600;
+    background-color: white;
+}
+
+#div3k>button:hover{
+    background-color: #202340;
+    color: white;
+    font-weight: 600;
+}
+
+#dis1{
+    font-size: 1.2rem;
+    width: 15rem;
+}
+
+#totalk{
+    margin-left: 55rem;
+    display: flex;
+    gap: 8rem;
+}
+
+#totalk>p{
+    font-size: 1.6rem;
+}
+
+#totalk>h2{
+    margin-top: 1.6rem;
+    font-size: 2rem;
+}
+
+#totalk1{
+    margin-left: 15rem;
+    display: flex;
+    gap: 13rem;
+}
+
+#totalk1>p{
+    font-size: 1.6rem;
+}
+
+#totalk1>h2{
+    margin-top: 1.3rem;
+    font-weight: 600;
+    font-size: 2rem;
+}
+
+#ak{
+    font-size: 1.2rem;
+    margin-left: 33rem;
+    
+}
+
+#zip1{
+
+    margin-top: 4rem;
+    width: 29rem;
+    margin-left: 15rem;
+    height: 5rem;
+    background-color: white;
+    
+}
+#zip1>input{
+    width: 7rem;
+    height: 3.4rem;
+    margin-left: 1rem;
+    margin-top: .5rem;
+
+}
+
+#zip1>button{
+    height: 4rem;
+    width: 17rem;
+    margin-left: 1.5rem;
+    margin-top: .5rem;
+    border-radius: 2rem;
+    border: 1px solid #202340;
+    font-weight: 600;
+    font-size: 1.5rem;
+    background-color: white;
+}
+#zip1>button:hover{
+    background-color: #202340;
+    color: white;
+}
+
+#btkk1{
+    height: 4rem;
+    width: 19rem;
+    margin-left: 25rem;
+    margin-top: 2rem;
+    border-radius: 2rem;
+    border: 1px solid #202340;
+    font-weight: 600;
+    font-size: 1.5rem;
+    background-color: #414467;
+    color: white;
+}
+
+#btkk1:hover{
+    background-color: #202340;
+    color: white;
+}
+
+#divbk{
+    background-color: white;
+    margin-top: 3rem;
+    width: 10rem;
+    margin-left: 5rem;
+    height:1.4rem;
+    font-size: 1.1rem;
+    font-weight: 600;
+    padding-bottom: .8rem;
+    border-radius: 1rem 1rem 0rem 0rem;
+    box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 2px, rgba(0, 0, 0, 0.07) 0px 2px 4px, rgba(0, 0, 0, 0.07) 0px 4px 8px, rgba(0, 0, 0, 0.07) 0px 8px 16px, rgba(0, 0, 0, 0.07) 0px 16px 32px, rgba(0, 0, 0, 0.07) 0px 32px 64px;
+
+}
+
+
+#divbkk{
+    background-color: white;
+    width: 40rem;
+    margin-left: 4rem;
+    height: 15rem;
+    box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 2px, rgba(0, 0, 0, 0.07) 0px 2px 4px, rgba(0, 0, 0, 0.07) 0px 4px 8px, rgba(0, 0, 0, 0.07) 0px 8px 16px, rgba(0, 0, 0, 0.07) 0px 16px 32px, rgba(0, 0, 0, 0.07) 0px 32px 64px;
+}
+
+#divbkk>div>img{
+    margin-left: 4rem;
+}

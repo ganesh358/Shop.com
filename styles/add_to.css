@@ -1,0 +1,186 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#add{
+    border: 1px solid black;
+    height: 90rem;
+    padding-top: 15rem;
+    display: flex;
+    gap: 5rem;
+}
+#add>div{
+   
+    height: 100rem;
+    width: 55rem;
+}
+
+#h11{
+    font-size: 2.2rem;
+}
+#star{
+    display: flex;
+}
+#star>ion-icon{
+    font-size: 1.5rem;
+    color: gold;
+    
+}
+#star>p{
+    color: #202342;
+    font-size: 1.5rem;
+    margin-top: -.1rem;
+    padding-right: 1rem;
+}
+#btnew{
+    width: 9rem;
+    height: 2.5rem;
+    background-color: #eda48d;
+    border: none;
+    margin-top: 3rem;
+}
+
+#price222{
+    display: flex;
+    gap: 4rem;
+}
+#price22{
+    font-size: 3.5rem;
+    font-weight: 400;
+}
+#ky{
+    height: 3rem;
+    border: 1px solid grey;
+    border-left: none;
+    border-right: none;
+    font-size: 1.2rem;
+    font-weight: 600;
+    text-align: center;
+    padding-bottom: 2rem;
+    width: 50rem;
+    
+}
+#ky>a{
+    text-decoration: underline;
+  
+}
+#ny{
+    
+    height: 8rem;
+    width: 55rem;
+    margin-top: 1rem;
+    font-size: 1.55rem;
+    background-color: #efefef;
+    padding-top: .2rem;
+}
+#ny>p{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 50rem;
+    margin-left: 1rem;
+   
+}
+#ka{
+    display: flex;
+    
+    margin-top: .8rem;
+    gap: 1rem;
+    width: 45rem;
+    height: 4rem;
+    background-color: #efefef;
+}
+#ka>img{
+    height: 2.8em;
+    margin-top: .8rem;
+}
+#ka>p{
+    font-size: 1.7rem;
+    margin-top: 1rem;
+}
+#ser{
+    
+    line-height: .5rem;
+    margin-top: 5rem;
+}
+#ser>h4{
+    font-size: 1.35rem;
+}
+#ser>p{
+    font-size: 1.2rem;
+}
+
+#check{
+    border: 1px solid grey;
+    height: 8rem;
+   
+   
+}
+#inp{
+    border: 1px solid #202342;
+}
+#pk{
+    font-size: 1.3rem;
+    font-weight: 600;
+    margin-left: 1rem;
+}
+
+#check>div{
+    display: flex;
+    gap: 6rem;
+    padding-left: 1rem;
+}
+
+#bel{
+    height: 4.5rem;
+    width: 5rem;
+    
+}
+#bell{
+    height: 4.5rem;
+    margin-top: 1.2rem;
+    width: 28rem;
+    font-size: 2rem;
+    font-weight: 600;
+    color: white;
+    border-radius: 2rem;
+    border: none;
+    background-color:  #414467;
+}
+#bell:hover{
+    background-color: #202342;
+}
+#lastone>input{
+    height: 3.4rem;
+    border: 1px solid #202342;
+    margin-top: 2rem;
+}
+
+#lastone>button{
+    height: 3.6rem;
+    margin-left: 3rem;
+    border-radius: 2rem;
+    border: 1px solid #202342;
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin-top: 2rem;
+}
+
+#lastone>button:hover{
+    background-color: #202342;
+    color: white;
+}
+#onea{
+    font-size: 1.2rem;
+    text-decoration: underline;
+}
+
+#piz{
+    font-size: 1.2rem;
+    margin-top: 4rem;
+}
+#imgas>img{
+  
+    margin-left: 5rem;
+    margin-top: 5rem;
+    width: 45rem;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}

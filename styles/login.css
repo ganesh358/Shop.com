@@ -1,0 +1,102 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#login{
+    border: 1px solid black;
+    height: 20rem;
+    padding-top: 15rem;
+    display: flex;
+    gap: 2rem;
+    padding-left: 20rem;
+    padding-bottom: 15rem;
+}
+
+#login>div{
+    
+    height: 30rem;
+    width: 34rem;
+    display: grid;
+    line-height: .2rem;
+}
+h1{
+    font-size: 2.8rem;
+    color: #202340;
+}
+#email{
+    margin-top: -4rem;
+    height: 3.4rem;
+    width: 30rem;
+    color: #202340;
+    border: 1px solid #202340;
+    padding-left: 1rem;
+}
+#password{
+    margin-top: -4rem;
+    height: 3.4rem;
+    width: 30rem;
+    color: #202340;
+    border: 1px solid #202340;
+    padding-left: 1rem;
+}
+
+#p{
+    font-size: 1.4rem;
+    margin-top: -2rem;
+    color: #202340;
+}
+.abn{
+    text-decoration: underline;
+}
+::placeholder{
+    color: #202340;
+    font-size: 1.4rem;
+}
+#btn2{
+    width: 31rem;
+    height: 3.9rem;
+    margin-top: -3rem;
+    border-radius: 2rem;
+    border: none;
+    font-size: 1.5rem;
+    font-weight: 600;
+    background-color:  #414467;
+    color: #ffff;
+}
+#btn2:hover{
+    background-color: #202340;
+    color: #ffff;
+}
+
+#paa{
+    line-height: 1.8rem;
+    font-size: 1.4rem;
+    color: #202340;
+    margin-top: -4rem;
+    font-weight: 500;
+    
+}
+#h2{
+    font-size: 2rem;
+    margin-top: 6rem;
+    font-weight: 550;
+    color: #202340;
+}
+
+#btn3{
+    width: 20rem;
+    height: 3.9rem;
+    margin-top: -6rem;
+    border-radius: 2rem;
+   border: 1px solid #202340;
+   color: #202340;
+    font-size: 1.55rem;
+    font-weight: 600;
+    background-color: #ffff;
+  
+}
+#btn3:hover{
+    background-color: #202340;
+    color: #ffff;
+}

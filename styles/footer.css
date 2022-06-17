@@ -1,0 +1,136 @@
+#foot{
+    border: 1px solid black;
+    height: 10rem;
+  
+    background-color: #545871;
+    
+}
+
+#foot1{
+    display: flex;
+    justify-content: space-between;
+}
+#foot1>div{
+    display: flex;
+    
+    
+    
+}
+#foot1>div>input{
+   margin-left: 2rem;
+   height: 1.9rem;
+   width: 25rem;
+}
+#foot1>div>button{
+    height: 2.5rem;
+    font-size: 1.2rem;
+}
+#pa{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.2rem;
+    font-weight: 1000;
+ 
+    font-stretch: extra-condensed;
+    color: white;
+    
+}
+.pa{
+    font-family: Arial, Helvetica, sans-serif;
+      font-size: 1.2rem;
+      color: white;
+}
+#aaa{
+    margin-top: 1.2rem;
+    text-decoration: underline;
+    font-weight: bolder;
+    color: white;
+}
+#foot1>div:last-child{
+    gap: .5rem;
+}
+#foot2{
+    display: flex;
+    justify-content: space-between;
+   
+}
+#foot1>div:first-child{
+    margin-left: 1.5rem;
+    margin-top: 1.5rem;
+    
+}
+#foot2>div:first-child{
+    display: flex;
+  
+    
+    margin-left: 1.5rem;
+    
+}
+
+#foot2>div>p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.3rem;
+    font-weight: 600;
+  margin-top: 1.5rem;
+    font-stretch: extra-condensed;
+    color: white;
+    word-spacing: .3rem;
+}
+
+#foot2>div>img{
+    width: 2.2rem;
+    height: 2.2rem;
+    margin-top: 1.2rem;
+    margin-right: .8rem;
+    mix-blend-mode: lighten;
+}
+
+#foot3{
+    background-color: #f0f1f7;
+    height: 25rem;
+    margin-top: -1.2rem;
+
+}
+.pf{
+    font-size: 1.1rem;
+    margin-left: 1rem;
+}
+.pff{
+    font-size: 1.2rem;
+    text-decoration: underline;
+    margin-left: 1rem;
+}
+#imgfff{
+    border: 1px solid rgb(143, 141, 141);
+    height: 18rem;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    margin-top: .5rem;
+   
+}
+#imgbb{
+    margin-left: 28rem;
+    margin-top: 2rem;
+}
+
+#imgfff>div>img{
+    width: 7.5rem;
+    height: 7.5rem;
+    margin-left: 1rem;
+    /* object-fit: cover; */
+}
+#imgfoot{
+   
+   margin-left: 59rem;
+   
+}
+#imgfoot>img{
+ 
+   object-fit: contain;
+}
+
+#sss{
+    height: 2rem;
+    width: 100%;
+    background-color: #f0f1f7;
+ }
